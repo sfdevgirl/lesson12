@@ -1,0 +1,102 @@
+html {
+	  background: url(http://i1280.photobucket.com/albums/a487/sfdevgirl/_s_aB4bB4c168d168e0f0g64h740059FF0000FFF974E9E9E900FFEFFF8A8AiCj30k64l1F4m1F4_zps5f246c3c.jpg); 
+  
+}
+
+body{
+	  margin: 0;
+}
+
+section{
+	background-color:#72D793;
+	border-radius: 6px;
+}
+
+h1{
+	font-family: 'Fredoka One', cursive;
+	color: #5B0149;
+	font-size: 30px;
+	padding: 5px;
+}
+
+h2{
+	color: #D70406;
+	font-family: 'Raleway';
+	font-size: 25px;
+	padding-left: 10px;
+}
+
+p{
+	font-family: 'Nixie One';
+	color: #FFFFFF;
+	font-size: 18px;
+	padding: 5px;
+}
+
+footer{
+	background-color: #DA3D4A;
+	border-radius: 6px;
+	font-size: 16px;
+	
+	
+
+
+}
+
+footer a, :active, :visited, :focus{
+		color:#72D793;
+		font-family: 'Fredoka One', cursive;
+		text-decoration: none;
+	}
+
+	a:hover{
+		color: #FFFFFF;
+		text-decoration: underline;
+	}
+
+ul{
+	padding: 0;
+}
+
+li {
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+
+.content-footer,
+.masthead-heading,
+.masthead-intro {
+  text-align: center;
+}
+
+.masthead {
+    background-color: #DA3D4A;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding: 6em 0;
+    
+}
+
+.masthead-intro {
+    margin-bottom: 0.1em;
+}
+
+.masthead-heading {
+    margin-top: -0.2em;
+    color: #72D793;
+}
+
+.content-footer,
+.introduction-section,
+.location-section,
+.questions-section {
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
+
+.social > li {
+    display: inline-block;
+}
